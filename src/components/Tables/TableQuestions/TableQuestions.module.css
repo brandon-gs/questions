@@ -1,0 +1,17 @@
+.table_questions_container {
+  min-height: 670px;
+}
+
+.table_questions {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 24px;
+  border: 1px solid #464545;
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 14px;
+}
+
+.empty_message {
+  text-align: center;
+}

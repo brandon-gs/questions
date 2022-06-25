@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    min-height: 60px;
+    background-color: #262a35;
+    color: #ffffff;
+    justify-content: flex-end;
+    padding: 0 16px;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}

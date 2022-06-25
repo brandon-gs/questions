@@ -1,0 +1,23 @@
+.navbar_item a {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 4px 16px;
+    margin-right: 8px;
+    color: #FFFFFF;
+    background-color: rgba(0,0,0,0.7);
+    font-weight: bolder;
+    transition: .3s background-color;
+}
+
+.navbar_item a:hover {
+    background-color: #7b7b7b;
+}
+
+.navbar_item a svg {
+    margin-right: 4px;
+    color: #FFFFFF;
+}

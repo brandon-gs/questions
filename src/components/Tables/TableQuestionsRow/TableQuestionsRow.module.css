@@ -1,0 +1,18 @@
+.table_question_td {
+    border: 1px solid #464545;
+    padding: 8px;
+    line-height: 1.5;
+    vertical-align: top;
+    background-color: #1b1b1b;
+    transition: .2s color;
+}
+
+.table_question_td_created_by {
+    color: #0ce3ac;
+    cursor: pointer;
+}
+
+.table_question_td_created_by:hover {
+    color:#eb3812;
+}
+

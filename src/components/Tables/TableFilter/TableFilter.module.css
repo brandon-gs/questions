@@ -1,0 +1,10 @@
+.table_filter_container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.filter_title {
+  min-width: 100px;
+  font-weight: bold;
+}
